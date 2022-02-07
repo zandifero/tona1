@@ -1,5 +1,5 @@
 jobs:
-  build:
+  build: 
     parallelism: 30
     docker:
       - image: cimg/ruby:3.0.2-node
